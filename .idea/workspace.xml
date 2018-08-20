@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0e40fad3-433a-481c-8b7e-e41bda334ea1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/eproc.html" afterPath="$PROJECT_DIR$/projects/eproc.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -292,12 +291,12 @@
       <workItem from="1534216966197" duration="14200000" />
       <workItem from="1534299689893" duration="10913000" />
       <workItem from="1534385785584" duration="25856000" />
-      <workItem from="1534733343065" duration="5796000" />
+      <workItem from="1534733343065" duration="6024000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56765000" />
+    <option name="totallyTimeSpent" value="56993000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1616" height="876" extended-state="6" />
