@@ -1757,3 +1757,9 @@ header {
     color: orange;
 }
 /* For Rating*/
+
+@media all and (max-width: 1024px) and (min-width: 768px){
+    .profpict{
+        height:500px;
+    }
+}
